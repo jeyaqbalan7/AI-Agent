@@ -63,7 +63,15 @@ response = chain.invoke({"input": "What is the capital of Russia?"})
 print("Answer:", response)
 ```
 
-### 5. Conclusion
+## 5. Sample Output 1:
+
+<img width="581" height="87" alt="output (1)" src="https://github.com/user-attachments/assets/cefb332a-4e0e-4a06-9961-dba86687e53c" />
+
+Sample Output 2:
+
+<img width="738" height="262" alt="output (2)" src="https://github.com/user-attachments/assets/c261fc9c-ea5d-486d-89fe-f2784bc92d12" />
+
+### 6. Conclusion
 
 This AI Assistant demonstrates how we can use open-source language models locally without relying on paid APIs. While it can handle basic factual questions and simple explanations, it has some limitations:
 
