@@ -13,12 +13,6 @@ This project demonstrates how to build a **local AI chatbot** using **LangChain*
 - ✅ Easy to modify for Q&A, summaries, explanations, etc.
 
 ---
-
-## Sample Output
-
-**Q:** Who is the founder of Google?  
-**A:** Google was founded by Larry Page and Sergey Brin.
-
 ---
 
 ## Setup Instructions
@@ -67,7 +61,7 @@ print("Answer:", response)
 
 <img width="581" height="87" alt="output (1)" src="https://github.com/user-attachments/assets/cefb332a-4e0e-4a06-9961-dba86687e53c" />
 
-Sample Output 2:
+## Sample Output 2:
 
 <img width="738" height="262" alt="output (2)" src="https://github.com/user-attachments/assets/c261fc9c-ea5d-486d-89fe-f2784bc92d12" />
 
